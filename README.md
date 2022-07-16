@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caseysdev&label=Profile%20views&color=0e75b6&style=flat" alt="caseysdev" /> </p>
 
-- 🔭 I’m currently working on **Solar Development & Wyvern Hosting**
+- 🔭 I’m currently working at **Solar Development & Wyvern Hosting**
 
 - 🌱 I’m currently learning **Networking, Cyber Security**
 
